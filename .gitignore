@@ -1,10 +1,12 @@
 .vs/*
 x64/*
 /out/
+/debug/
 /Debug/
 /Build/
 /Install/*
 /CMakeFiles/
+/Testing/
 
 *.ninja
 *.log

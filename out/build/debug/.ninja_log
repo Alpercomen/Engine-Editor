@@ -18,3 +18,15 @@
 255	1533	7926528732024549	Source/Application/CMakeFiles/Editor.dir/QTUtils/View/Scene.cpp.obj	7b468c4a61bd49a4
 251	2193	7926528731984545	Source/Application/CMakeFiles/Editor.dir/QTUtils/Main/MainWindow.cpp.obj	957664ee4399a984
 2193	2370	7926528751410021	Source/Application/Editor.exe	b371d762f9de25f0
+19	380	7926530725239261	Source/Application/Editor_autogen/timestamp	95f59c0073184535
+19	380	7926530725239261	Source/Application/Editor_autogen/mocs_compilation.cpp	95f59c0073184535
+19	380	7926530725239261	D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/Editor_autogen/timestamp	95f59c0073184535
+19	380	7926530725239261	D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/Editor_autogen/mocs_compilation.cpp	95f59c0073184535
+401	2018	7926530726076826	Source/Application/CMakeFiles/Editor.dir/QTUtils/View/Scene.cpp.obj	7b468c4a61bd49a4
+385	2053	7926530725920556	Source/Application/CMakeFiles/Editor.dir/Editor.cpp.obj	480d9e3117332031
+393	2091	7926530725994196	Source/Application/CMakeFiles/Editor.dir/QTUtils/Model/Hierarchy.cpp.obj	1d1d1ef795e4d95c
+395	2276	7926530726014205	Source/Application/CMakeFiles/Editor.dir/QTUtils/Panel/Inspector.cpp.obj	87b44032eb2c5f8f
+381	2753	7926530725870485	Source/Application/CMakeFiles/Editor.dir/Editor_autogen/mocs_compilation.cpp.obj	898225264399ff9c
+398	2770	7926530726045583	Source/Application/CMakeFiles/Editor.dir/QTUtils/View/ContentBrowser.cpp.obj	597d4ad71469ce5e
+390	2809	7926530725964234	Source/Application/CMakeFiles/Editor.dir/QTUtils/Main/MainWindow.cpp.obj	957664ee4399a984
+2809	2978	7926530750158600	Source/Application/Editor.exe	b371d762f9de25f0

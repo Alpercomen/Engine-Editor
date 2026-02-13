@@ -16,7 +16,7 @@
 #include <Application/QTUtils/View/Scene.h>
 
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent) {
-	setWindowTitle("Nyx Editor – Skeleton");
+	setWindowTitle("Editor");
 	resize(1400, 900);
 
 

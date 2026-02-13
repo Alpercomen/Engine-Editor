@@ -1,4 +1,4 @@
-# Install script for directory: D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src
+# Install script for directory: D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,31 +33,31 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/fmtd.lib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/fmtd.lib")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/fmt" TYPE FILE FILES
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/args.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/chrono.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/color.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/compile.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/core.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/format.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/format-inl.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/os.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/ostream.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/printf.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/ranges.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/std.h"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include/fmt/xchar.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/args.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/chrono.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/color.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/compile.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/core.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/format.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/format-inl.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/os.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/ostream.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/printf.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/ranges.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/std.h"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include/fmt/xchar.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/fmt-config.cmake"
-    "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/fmt-config-version.cmake"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/fmt-config.cmake"
+    "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/fmt-config-version.cmake"
     )
 endif()
 
@@ -65,7 +65,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets.cmake"
-         "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
+         "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets-*.cmake")
       if(_cmake_old_config_files)
@@ -78,13 +78,13 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
   if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets-debug.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets-debug.cmake")
   endif()
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-build/fmt.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-build/fmt.pc")
 endif()
 

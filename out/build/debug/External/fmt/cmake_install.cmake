@@ -1,4 +1,4 @@
-# Install script for directory: D:/Documents/Projects/Editor/External/fmt
+# Install script for directory: D:/Documents/Projects/Engine Editor/External/fmt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,37 +1,21 @@
 # ninja log v6
-4	65	7802978747859023	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	8def024fc3735eb9
-4	65	7802978747859023	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	8def024fc3735eb9
-65	3073	7802978777842879	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	67b5a046f56b81da
-10	106	7803026706702164	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	50776d0ea1afd74f
-106	148	7803026708032499	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	d485abfb10e1a398
-65	3073	7802978777842879	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	67b5a046f56b81da
-10	106	7803026706702164	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	50776d0ea1afd74f
-106	148	7803026708032499	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	d485abfb10e1a398
-148	193	7803026708494049	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	c804a3f7a8f6829c
-148	193	7803026708494049	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	c804a3f7a8f6829c
-194	233	7803026708886644	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f081626b720bc6d9
-194	233	7803026708886644	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f081626b720bc6d9
-233	274	7803026709291928	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	885d90651f9fa7e5
-233	274	7803026709291928	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	885d90651f9fa7e5
-274	316	7803026709706376	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	51f9cc60978b4895
-316	373	7803026710285182	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	45ac31f5a78429d7
-274	316	7803026709706376	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	51f9cc60978b4895
-316	373	7803026710285182	CMakeFiles/fmt-populate-complete	45ac31f5a78429d7
-316	373	7803026710285182	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	45ac31f5a78429d7
-316	373	7803026710285182	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	45ac31f5a78429d7
-10	107	7803043218555922	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	50776d0ea1afd74f
-10	107	7803043218555922	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	50776d0ea1afd74f
-107	150	7803043219897285	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	d485abfb10e1a398
-107	150	7803043219897285	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	d485abfb10e1a398
-150	194	7803043220338788	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	c804a3f7a8f6829c
-150	194	7803043220338788	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	c804a3f7a8f6829c
-194	238	7803043220785116	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f081626b720bc6d9
-194	238	7803043220785116	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	f081626b720bc6d9
-239	282	7803043221218899	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	885d90651f9fa7e5
-239	282	7803043221218899	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	885d90651f9fa7e5
-282	324	7803043221641103	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	51f9cc60978b4895
-282	324	7803043221641103	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	51f9cc60978b4895
-324	380	7803043222204858	CMakeFiles/fmt-populate-complete	45ac31f5a78429d7
-324	380	7803043222204858	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	45ac31f5a78429d7
-324	380	7803043222204858	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	45ac31f5a78429d7
-324	380	7803043222204858	D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	45ac31f5a78429d7
+3	60	7926526906140537	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	c78ffbf6ad1709f3
+3	60	7926526906140537	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	c78ffbf6ad1709f3
+60	3497	7926526940506941	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	d0d01ddb9bc3cfb9
+60	3497	7926526940506941	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	d0d01ddb9bc3cfb9
+3497	3649	7926526940566933	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	d728617c074605f9
+3497	3649	7926526940566933	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	d728617c074605f9
+3649	3699	7926526942533540	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	b31180184e879007
+3649	3699	7926526942533540	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	b31180184e879007
+3699	3766	7926526943198151	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a7b410f3ea51f056
+3699	3766	7926526943198151	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a7b410f3ea51f056
+3766	3817	7926526943702592	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	5eca7515fc97de1b
+3766	3817	7926526943702592	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	5eca7515fc97de1b
+3818	3868	7926526944214398	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c3a18102842fe976
+3818	3868	7926526944214398	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c3a18102842fe976
+3869	3921	7926526944752769	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	57fc6ffaa787975
+3869	3921	7926526944752769	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	57fc6ffaa787975
+3921	3991	7926526945454964	CMakeFiles/fmt-populate-complete	3d684f3e88bbb9ea
+3921	3991	7926526945454964	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3d684f3e88bbb9ea
+3921	3991	7926526945454964	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	3d684f3e88bbb9ea
+3921	3991	7926526945454964	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	3d684f3e88bbb9ea

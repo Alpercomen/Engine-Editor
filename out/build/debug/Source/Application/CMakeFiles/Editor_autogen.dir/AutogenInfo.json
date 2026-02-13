@@ -1,13 +1,13 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application/Editor_autogen",
-	"CMAKE_BINARY_DIR" : "D:/Documents/Projects/Editor/out/build/debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application",
-	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Documents/Projects/Editor/Source/Application",
+	"BUILD_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/Editor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Documents/Projects/Engine Editor/Source/Application",
 	"CMAKE_EXECUTABLE" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"D:/Documents/Projects/Editor/Source/Application/CMakeLists.txt",
+		"D:/Documents/Projects/Engine Editor/Source/Application/CMakeLists.txt",
 		"C:/Qt/6.9.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
 		"C:/Qt/6.9.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
 		"C:/Qt/6.9.2/msvc2022_64/lib/cmake/Qt6/Qt6Config.cmake",
@@ -95,61 +95,61 @@
 		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
 		"C:/Qt/6.9.2/msvc2022_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "D:/Documents/Projects/Editor",
+	"CMAKE_SOURCE_DIR" : "D:/Documents/Projects/Engine Editor",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application/Editor_autogen/deps",
+	"DEP_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/Editor_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "Editor_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"D:/Documents/Projects/Editor/Source/Application/Core/Core.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/Core/Core.h",
 			"MU",
 			"4VKJKCZPXG/moc_Core.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Main/MainWindow.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Main/MainWindow.h",
 			"MU",
 			"MQ5UZSFB6Y/moc_MainWindow.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Model/Hierarchy.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Model/Hierarchy.h",
 			"MU",
 			"NHS26JJIZL/moc_Hierarchy.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Panel/Inspector.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Panel/Inspector.h",
 			"MU",
 			"YZZ4IAWFFV/moc_Inspector.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Proxy/FileFilter.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Proxy/FileFilter.h",
 			"MU",
 			"IWGG7WXIDW/moc_FileFilter.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/View/ContentBrowser.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/View/ContentBrowser.h",
 			"MU",
 			"JMMWAHHNO4/moc_ContentBrowser.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/View/Scene.h",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/View/Scene.h",
 			"MU",
 			"JMMWAHHNO4/moc_Scene.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application/Editor_autogen/include",
-	"MOC_COMPILATION_FILE" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application/Editor_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/Editor_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/Editor_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
-		"PROJECT_SOURCE_DIR=\"D:/Documents/Projects/Editor\"",
+		"PROJECT_SOURCE_DIR=\"D:/Documents/Projects/Engine Editor\"",
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
 		"QT_WIDGETS_LIB",
@@ -169,13 +169,13 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"D:/Documents/Projects/Editor/Source",
+		"D:/Documents/Projects/Engine Editor/Source",
 		"C:/Qt/6.9.2/msvc2022_64/include/QtCore",
 		"C:/Qt/6.9.2/msvc2022_64/include",
 		"C:/Qt/6.9.2/msvc2022_64/mkspecs/win32-msvc",
 		"C:/Qt/6.9.2/msvc2022_64/include/QtWidgets",
 		"C:/Qt/6.9.2/msvc2022_64/include/QtGui",
-		"C:/VulkanSDK/1.3.296.0/Include"
+		"C:/VulkanSDK/1.4.328.1/Include"
 	],
 	"MOC_MACRO_NAMES" : 
 	[
@@ -194,41 +194,41 @@
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 16,
-	"PARSE_CACHE_FILE" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application/CMakeFiles/Editor_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/CMakeFiles/Editor_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.2/msvc2022_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/6.9.2/msvc2022_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "D:/Documents/Projects/Editor/out/build/debug/Source/Application/CMakeFiles/Editor_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/Source/Application/CMakeFiles/Editor_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"D:/Documents/Projects/Editor/Source/Application/Editor.cpp",
+			"D:/Documents/Projects/Engine Editor/Source/Application/Editor.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Main/MainWindow.cpp",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Main/MainWindow.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Model/Hierarchy.cpp",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Model/Hierarchy.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/Panel/Inspector.cpp",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/Panel/Inspector.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/View/ContentBrowser.cpp",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/View/ContentBrowser.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/Source/Application/QTUtils/View/Scene.cpp",
+			"D:/Documents/Projects/Engine Editor/Source/Application/QTUtils/View/Scene.cpp",
 			"MU",
 			null
 		]

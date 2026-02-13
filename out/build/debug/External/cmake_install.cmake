@@ -1,4 +1,4 @@
-# Install script for directory: D:/Documents/Projects/Editor/External
+# Install script for directory: D:/Documents/Projects/Engine Editor/External
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,11 +34,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Documents/Projects/Editor/out/build/debug/External/fmt/cmake_install.cmake")
+  include("D:/Documents/Projects/Engine Editor/out/build/debug/External/fmt/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Documents/Projects/Editor/out/build/debug/External/spdlog/cmake_install.cmake")
+  include("D:/Documents/Projects/Engine Editor/out/build/debug/External/spdlog/cmake_install.cmake")
 endif()
 

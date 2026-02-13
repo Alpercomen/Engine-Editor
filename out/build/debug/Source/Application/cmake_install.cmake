@@ -1,4 +1,4 @@
-# Install script for directory: D:/Documents/Projects/Editor/Source/Application
+# Install script for directory: D:/Documents/Projects/Engine Editor/Source/Application
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

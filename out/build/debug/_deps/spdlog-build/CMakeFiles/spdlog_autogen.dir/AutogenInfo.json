@@ -1,15 +1,15 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen",
-	"CMAKE_BINARY_DIR" : "D:/Documents/Projects/Editor/out/build/debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src",
+	"BUILD_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src",
 	"CMAKE_EXECUTABLE" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/CMakeLists.txt",
-		"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/cmake/utils.cmake",
-		"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/cmake/ide.cmake",
+		"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/CMakeLists.txt",
+		"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/cmake/utils.cmake",
+		"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/cmake/ide.cmake",
 		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
 		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindThreads.cmake",
 		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake",
@@ -18,616 +18,616 @@
 		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake",
 		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FindPackageMessage.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "D:/Documents/Projects/Editor",
+	"CMAKE_SOURCE_DIR" : "D:/Documents/Projects/Engine Editor",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen/deps",
+	"DEP_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "spdlog_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/async.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/async.h",
 			"MU",
 			"HVFRPAM7ED/moc_async.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/async_logger-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/async_logger-inl.h",
 			"MU",
 			"HVFRPAM7ED/moc_async_logger-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/async_logger.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/async_logger.h",
 			"MU",
 			"HVFRPAM7ED/moc_async_logger.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/common-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/common-inl.h",
 			"MU",
 			"HVFRPAM7ED/moc_common-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/common.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/common.h",
 			"MU",
 			"HVFRPAM7ED/moc_common.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/backtracer-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/backtracer-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_backtracer-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/backtracer.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/backtracer.h",
 			"MU",
 			"XQP7O2TD4B/moc_backtracer.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/circular_q.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/circular_q.h",
 			"MU",
 			"XQP7O2TD4B/moc_circular_q.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/console_globals.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/console_globals.h",
 			"MU",
 			"XQP7O2TD4B/moc_console_globals.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/file_helper-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/file_helper-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_file_helper-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/file_helper.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/file_helper.h",
 			"MU",
 			"XQP7O2TD4B/moc_file_helper.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/fmt_helper.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/fmt_helper.h",
 			"MU",
 			"XQP7O2TD4B/moc_fmt_helper.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_log_msg-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg.h",
 			"MU",
 			"XQP7O2TD4B/moc_log_msg.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg_buffer-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg_buffer-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_log_msg_buffer-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg_buffer.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/log_msg_buffer.h",
 			"MU",
 			"XQP7O2TD4B/moc_log_msg_buffer.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/mpmc_blocking_q.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/mpmc_blocking_q.h",
 			"MU",
 			"XQP7O2TD4B/moc_mpmc_blocking_q.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/null_mutex.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/null_mutex.h",
 			"MU",
 			"XQP7O2TD4B/moc_null_mutex.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/os-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/os-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_os-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/os.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/os.h",
 			"MU",
 			"XQP7O2TD4B/moc_os.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/periodic_worker-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/periodic_worker-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_periodic_worker-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/periodic_worker.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/periodic_worker.h",
 			"MU",
 			"XQP7O2TD4B/moc_periodic_worker.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/registry-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/registry-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_registry-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/registry.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/registry.h",
 			"MU",
 			"XQP7O2TD4B/moc_registry.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/synchronous_factory.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/synchronous_factory.h",
 			"MU",
 			"XQP7O2TD4B/moc_synchronous_factory.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/tcp_client-windows.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/tcp_client-windows.h",
 			"MU",
 			"XQP7O2TD4B/moc_tcp_client-windows.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/tcp_client.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/tcp_client.h",
 			"MU",
 			"XQP7O2TD4B/moc_tcp_client.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/thread_pool-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/thread_pool-inl.h",
 			"MU",
 			"XQP7O2TD4B/moc_thread_pool-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/thread_pool.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/thread_pool.h",
 			"MU",
 			"XQP7O2TD4B/moc_thread_pool.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/udp_client-windows.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/udp_client-windows.h",
 			"MU",
 			"XQP7O2TD4B/moc_udp_client-windows.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/udp_client.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/udp_client.h",
 			"MU",
 			"XQP7O2TD4B/moc_udp_client.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/windows_include.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/details/windows_include.h",
 			"MU",
 			"XQP7O2TD4B/moc_windows_include.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bin_to_hex.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bin_to_hex.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_bin_to_hex.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/args.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/args.h",
 			"MU",
 			"2YS6ESAODH/moc_args.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/chrono.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/chrono.h",
 			"MU",
 			"2YS6ESAODH/moc_chrono.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/color.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/color.h",
 			"MU",
 			"2YS6ESAODH/moc_color.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/compile.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/compile.h",
 			"MU",
 			"2YS6ESAODH/moc_compile.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/core.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/core.h",
 			"MU",
 			"2YS6ESAODH/moc_core.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/format-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/format-inl.h",
 			"MU",
 			"2YS6ESAODH/moc_format-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/format.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/format.h",
 			"MU",
 			"2YS6ESAODH/moc_format.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/locale.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/locale.h",
 			"MU",
 			"2YS6ESAODH/moc_locale.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/os.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/os.h",
 			"MU",
 			"2YS6ESAODH/moc_os.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/ostream.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/ostream.h",
 			"MU",
 			"2YS6ESAODH/moc_ostream.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/printf.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/printf.h",
 			"MU",
 			"2YS6ESAODH/moc_printf.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/ranges.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/ranges.h",
 			"MU",
 			"2YS6ESAODH/moc_ranges.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/std.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/std.h",
 			"MU",
 			"2YS6ESAODH/moc_std.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/xchar.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/bundled/xchar.h",
 			"MU",
 			"2YS6ESAODH/moc_xchar.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/chrono.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/chrono.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_chrono.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/compile.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/compile.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_compile.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/fmt.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/fmt.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_fmt.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/ostr.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/ostr.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_ostr.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/ranges.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/ranges.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_ranges.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/std.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/std.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_std.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/xchar.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fmt/xchar.h",
 			"MU",
 			"AO7NIFJ7ZK/moc_xchar.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/formatter.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/formatter.h",
 			"MU",
 			"HVFRPAM7ED/moc_formatter.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fwd.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/fwd.h",
 			"MU",
 			"HVFRPAM7ED/moc_fwd.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/logger-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/logger-inl.h",
 			"MU",
 			"HVFRPAM7ED/moc_logger-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/logger.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/logger.h",
 			"MU",
 			"HVFRPAM7ED/moc_logger.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/mdc.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/mdc.h",
 			"MU",
 			"HVFRPAM7ED/moc_mdc.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/pattern_formatter-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/pattern_formatter-inl.h",
 			"MU",
 			"HVFRPAM7ED/moc_pattern_formatter-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/pattern_formatter.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/pattern_formatter.h",
 			"MU",
 			"HVFRPAM7ED/moc_pattern_formatter.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/android_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/android_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_android_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ansicolor_sink-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ansicolor_sink-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_ansicolor_sink-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ansicolor_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ansicolor_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_ansicolor_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/base_sink-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/base_sink-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_base_sink-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/base_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/base_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_base_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/basic_file_sink-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/basic_file_sink-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_basic_file_sink-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/basic_file_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/basic_file_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_basic_file_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/callback_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/callback_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_callback_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/daily_file_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/daily_file_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_daily_file_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/dist_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/dist_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_dist_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/dup_filter_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/dup_filter_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_dup_filter_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/hourly_file_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/hourly_file_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_hourly_file_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/kafka_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/kafka_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_kafka_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/mongo_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/mongo_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_mongo_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/msvc_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/msvc_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_msvc_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/null_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/null_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_null_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ostream_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ostream_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_ostream_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/qt_sinks.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/qt_sinks.h",
 			"MU",
 			"L6DBGAO5Y6/moc_qt_sinks.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ringbuffer_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/ringbuffer_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_ringbuffer_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/rotating_file_sink-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/rotating_file_sink-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_rotating_file_sink-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/rotating_file_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/rotating_file_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_rotating_file_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/sink-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/sink-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_sink-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_color_sinks-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_color_sinks-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_stdout_color_sinks-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_color_sinks.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_color_sinks.h",
 			"MU",
 			"L6DBGAO5Y6/moc_stdout_color_sinks.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_sinks-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_sinks-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_stdout_sinks-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_sinks.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/stdout_sinks.h",
 			"MU",
 			"L6DBGAO5Y6/moc_stdout_sinks.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/syslog_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/syslog_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_syslog_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/systemd_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/systemd_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_systemd_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/tcp_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/tcp_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_tcp_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/udp_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/udp_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_udp_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/win_eventlog_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/win_eventlog_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_win_eventlog_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/wincolor_sink-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/wincolor_sink-inl.h",
 			"MU",
 			"L6DBGAO5Y6/moc_wincolor_sink-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/wincolor_sink.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/sinks/wincolor_sink.h",
 			"MU",
 			"L6DBGAO5Y6/moc_wincolor_sink.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/spdlog-inl.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/spdlog-inl.h",
 			"MU",
 			"HVFRPAM7ED/moc_spdlog-inl.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/spdlog.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/spdlog.h",
 			"MU",
 			"HVFRPAM7ED/moc_spdlog.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/stopwatch.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/stopwatch.h",
 			"MU",
 			"HVFRPAM7ED/moc_stopwatch.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/tweakme.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/tweakme.h",
 			"MU",
 			"HVFRPAM7ED/moc_tweakme.cpp",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include/spdlog/version.h",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include/spdlog/version.h",
 			"MU",
 			"HVFRPAM7ED/moc_version.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen/include",
-	"MOC_COMPILATION_FILE" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build/spdlog_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "SPDLOG_COMPILED_LIB", "SPDLOG_FMT_EXTERNAL", "WIN32" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -638,8 +638,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/include",
-		"D:/Documents/Projects/Editor/out/build/debug/_deps/fmt-src/include"
+		"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/include",
+		"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/fmt-src/include"
 	],
 	"MOC_MACRO_NAMES" : 
 	[
@@ -658,41 +658,41 @@
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 16,
-	"PARSE_CACHE_FILE" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build/CMakeFiles/spdlog_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build/CMakeFiles/spdlog_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.2/msvc2022_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/6.9.2/msvc2022_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-build/CMakeFiles/spdlog_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-build/CMakeFiles/spdlog_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/src/async.cpp",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/src/async.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/src/cfg.cpp",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/src/cfg.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/src/color_sinks.cpp",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/src/color_sinks.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/src/file_sinks.cpp",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/src/file_sinks.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/src/spdlog.cpp",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/src/spdlog.cpp",
 			"MU",
 			null
 		],
 		[
-			"D:/Documents/Projects/Editor/out/build/debug/_deps/spdlog-src/src/stdout_sinks.cpp",
+			"D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-src/src/stdout_sinks.cpp",
 			"MU",
 			null
 		]

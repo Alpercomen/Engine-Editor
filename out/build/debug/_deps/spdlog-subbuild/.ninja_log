@@ -1,21 +1,39 @@
 # ninja log v6
 3	55	7926526951850899	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	8c08ed7ed2515083
-3	55	7926526951850899	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	8c08ed7ed2515083
-56	2320	7926526974505137	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	4c50aa383a7b3105
-56	2320	7926526974505137	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	4c50aa383a7b3105
-2321	2459	7926526974542439	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	cfc2c888a422957a
-2321	2459	7926526974542439	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	cfc2c888a422957a
 2460	2521	7926526976485870	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	b9b2b0304510c137
+3	55	7926526951850899	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	8c08ed7ed2515083
+2321	2459	7926526974542439	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	cfc2c888a422957a
+56	2320	7926526974505137	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	4c50aa383a7b3105
+2622	2671	7926526977999205	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	54716b5128c693ac
+56	2320	7926526974505137	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	4c50aa383a7b3105
 2460	2521	7926526976485870	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	b9b2b0304510c137
+2321	2459	7926526974542439	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	cfc2c888a422957a
 2521	2572	7926526977016714	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	2b43c114c731d823
+2720	2802	7926526979161928	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	b4752e5df39cc97
 2521	2572	7926526977016714	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	2b43c114c731d823
 2573	2621	7926526977495391	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	7d01e00614054981
 2573	2621	7926526977495391	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	7d01e00614054981
 2622	2671	7926526977999205	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	54716b5128c693ac
-2622	2671	7926526977999205	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	54716b5128c693ac
 2672	2720	7926526978494767	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	c44401abe99ba451
+2720	2802	7926526979161928	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	b4752e5df39cc97
 2672	2720	7926526978494767	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	c44401abe99ba451
 2720	2802	7926526979161928	CMakeFiles/spdlog-populate-complete	b4752e5df39cc97
-2720	2802	7926526979161928	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	b4752e5df39cc97
 2720	2802	7926526979161928	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	b4752e5df39cc97
-2720	2802	7926526979161928	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	b4752e5df39cc97
+4	60	7926531672319410	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	4c50aa383a7b3105
+4	60	7926531672319410	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	4c50aa383a7b3105
+60	179	7926531672369422	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	cfc2c888a422957a
+60	179	7926531672369422	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	cfc2c888a422957a
+179	229	7926531674009848	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	b9b2b0304510c137
+179	229	7926531674009848	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	b9b2b0304510c137
+229	285	7926531674571977	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	2b43c114c731d823
+229	285	7926531674571977	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	2b43c114c731d823
+285	340	7926531675127607	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	7d01e00614054981
+285	340	7926531675127607	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	7d01e00614054981
+341	386	7926531675588421	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	54716b5128c693ac
+341	386	7926531675588421	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	54716b5128c693ac
+387	434	7926531676075569	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	c44401abe99ba451
+387	434	7926531676075569	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	c44401abe99ba451
+434	496	7926531676679161	CMakeFiles/spdlog-populate-complete	b4752e5df39cc97
+434	496	7926531676679161	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	b4752e5df39cc97
+434	496	7926531676679161	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	b4752e5df39cc97
+434	496	7926531676679161	D:/Documents/Projects/Engine Editor/out/build/debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	b4752e5df39cc97

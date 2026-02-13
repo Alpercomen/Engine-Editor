@@ -1,8 +1,11 @@
 .vs/*
 x64/*
-Debug/*
-Build/*
-Install/*
-out/*
-CMakeFiles/*
-out/build/*
+/out/
+/Debug/
+/Build/
+/Install/*
+/CMakeFiles/
+
+*.ninja
+*.log
+.ninja_*

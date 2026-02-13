@@ -9,3 +9,4 @@ x64/*
 *.ninja
 *.log
 .ninja_*
+.ninja_log
